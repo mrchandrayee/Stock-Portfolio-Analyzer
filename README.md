@@ -55,5 +55,16 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 ```
+## Connect With Us 🌐
+
+Feel free to reach out to us through any of the following platforms:
+
+- Telegram: [@crupgrade](https://t.me/crupgrade)
+- LinkedIn: [Mr. Chandrayee](https://www.linkedin.com/in/mrchandrayee/)
+- GitHub: [mrchandrayee](https://github.com/mrchandrayee)
+- Kaggle: [mrchandrayee](https://www.kaggle.com/mrchandrayee)
+- Instagram: [@chandrayee](https://www.instagram.com/chandrayee/)
+- YouTube: [Chand Rayee](https://www.youtube.com/channel/UCcM2HEX1YXcWjk2AK0hgyFg)
+- Discord: [AI & ML Chand Rayee](https://discord.gg/SXs6Wf8c)
 
 
