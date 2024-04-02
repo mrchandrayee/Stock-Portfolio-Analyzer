@@ -59,7 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out to us through any of the following platforms:
 
-- Telegram: [@crupgrade](https://t.me/crupgrade)
+- Telegram: [@crupgrade](https://t.me/chand_rayee)
 - LinkedIn: [Mr. Chandrayee](https://www.linkedin.com/in/mrchandrayee/)
 - GitHub: [mrchandrayee](https://github.com/mrchandrayee)
 - Kaggle: [mrchandrayee](https://www.kaggle.com/mrchandrayee)
